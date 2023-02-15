@@ -47,6 +47,10 @@ For further details: [Sigfox-Official-Documentation](https://build.sigfox.com/si
 
 2. If you adapt chip antennae. Then the following should be followed.
 <img width="760" alt="chip antennae" src="https://user-images.githubusercontent.com/55284959/219027135-0c89af1f-999e-439c-92cb-0576b9e28b99.png">
+- TVS diode is applicable to point 1
+- But you do not have to apply TVS diode because the signal and GND are attatched. 
+3. Helica Antennae Design 
+<img width="486" alt="helical antennae" src="https://user-images.githubusercontent.com/55284959/219027949-2771a73f-1f45-4d7e-b7fe-dcaa4fd60aa6.png">
 
 
 
