@@ -26,3 +26,27 @@ For further details: [Sigfox-Official-Documentation](https://build.sigfox.com/si
 <img width="679" alt="geographical zones" src="https://user-images.githubusercontent.com/55284959/219023358-625a884d-6a31-4aad-bdc3-aecbc9fceef2.png">
 
 
+**Sigfox RCZ1**
+- it is a Sigfox Radio Module which is SMD type and verified by ETSI. 
+- PCBA Size : 13mm(W) x 15mm(L) x 2.21mm(H)
+<img width="635" alt="wisolchip'" src="https://user-images.githubusercontent.com/55284959/219024417-05cb68cf-3544-4ab7-82f2-c867a601596c.png">
+
+- **Pin description**
+<img width="547" alt="pinout" src="https://user-images.githubusercontent.com/55284959/219024756-d14c39a6-c599-4a6f-9dfa-45c6d990b435.png">
+
+**Block Diagram**
+
+<img width="470" alt="blockdiag" src="https://user-images.githubusercontent.com/55284959/219025132-ba6e0312-b40d-498e-a175-de85ee559381.png">
+
+## Guidelines when using this radio for PCB Design
+- These guidelines are based on Wisol provisions.
+
+1. Transmssion Line -  it should be 50 ohms and TVS Diode is in line. See the picture below on the connection
+
+<img width="620" alt="wisolview" src="https://user-images.githubusercontent.com/55284959/219026198-ec609532-c216-477b-8267-06a3f3a85c6e.png">
+
+2. If you adapt chip antennae. Then the following should be followed.
+
+
+
+
