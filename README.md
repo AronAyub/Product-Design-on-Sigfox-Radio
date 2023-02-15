@@ -22,3 +22,7 @@ See the map below:
 - Each zone has a different set of parameters which clearly dimension the device hardware implementation: mainly *frequency range,* *maximum radiated power,* and *radio front end specificities*
 
 For further details: [Sigfox-Official-Documentation](https://build.sigfox.com/sigfox-radio-configurations-rc)
+
+<img width="679" alt="geographical zones" src="https://user-images.githubusercontent.com/55284959/219023358-625a884d-6a31-4aad-bdc3-aecbc9fceef2.png">
+
+
