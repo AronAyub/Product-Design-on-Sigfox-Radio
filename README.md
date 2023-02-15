@@ -5,7 +5,7 @@
 
 Sigfox is an IoT network also called **0G** which is inexpensive, reliable, low-power solution and was built to connect sensors and devices. It uses radio-based network, layed infrastructure by the network operator enables your sensors and devices to wisper messages and these messages are transmitted to the base station and to the Sigfox Backend, in that manne, we are able to give voice to the physical world, and make the Internet of Things truly happen.
 
-The Sigfox protocol focuses on: 
+**The Sigfox protocol focuses on:** 
 
 - *Autonomy.* Extremely low energy consumption, allowing years of battery life.
 - *Simplicity.* No configuration, connection request or signaling. Your device is up and running within minutes!
