@@ -52,6 +52,9 @@ For further details: [Sigfox-Official-Documentation](https://build.sigfox.com/si
 3. Helica Antennae Design 
 <img width="486" alt="helical antennae" src="https://user-images.githubusercontent.com/55284959/219027949-2771a73f-1f45-4d7e-b7fe-dcaa4fd60aa6.png">
 
+<img width="635" alt="helical2" src="https://user-images.githubusercontent.com/55284959/219028579-ae497775-3569-4bac-a9af-2a192ccba4c7.png">
+
+
 
 
 
