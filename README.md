@@ -46,6 +46,8 @@ For further details: [Sigfox-Official-Documentation](https://build.sigfox.com/si
 <img width="620" alt="wisolview" src="https://user-images.githubusercontent.com/55284959/219026198-ec609532-c216-477b-8267-06a3f3a85c6e.png">
 
 2. If you adapt chip antennae. Then the following should be followed.
+<img width="760" alt="chip antennae" src="https://user-images.githubusercontent.com/55284959/219027135-0c89af1f-999e-439c-92cb-0576b9e28b99.png">
+
 
 
 
