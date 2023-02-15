@@ -1,5 +1,5 @@
 # Product Design on Sigfox Radio
- Review approach when designing sigfox product with Sigfox Radio Modules
+ Review approach when designing Sigfox product with Sigfox Radio Modules. 
 
  ## Introduction 
 
